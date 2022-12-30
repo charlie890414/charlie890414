@@ -1,5 +1,4 @@
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:charlie890414@gmail.com)
-![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=charlie890414&countColor=rgb(55,154,110))
 
 ## 🛠 &nbsp;Tech Stack
 
