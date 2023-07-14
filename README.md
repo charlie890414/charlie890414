@@ -1,28 +1,20 @@
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:charlie890414@gmail.com)
+[![](https://visitcount.itsvg.in/api?id=charlie890414&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 &nbsp;Tech Stack
+# 💫 About Me:
 
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)&nbsp;
-![C sharp](https://img.shields.io/badge/-C%20Sharp-0d1117?style=flat-square&logo=csharp&logoColor=1D9924)&nbsp;
-![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=C&logoColor=007ACC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0d1117?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=Java&logoColor=FFA518)&nbsp;
+I am a problem-solver and enjoy working in a fast-paced environment where I can apply my skills to real-world challenges. I am also a team player and enjoy collaborating with others to achieve common goals. In my free time, I enjoy participating in programming competitions and have received several awards for my achievements, including the 2022 MediaTek Better Future Award and the 2020 Global Honorable Mention in the NASA SPACE APPS Challenge.<br><br>Overall, I am a dedicated and passionate individual with a proven track record of success in many activity. I am excited to continue learning and growing in my field and am always looking for new challenges and opportunities to apply my skills.
 
-![Pytorch](https://img.shields.io/badge/-Pytorch-0d1117?style=flat-square&logo=Pytorch&logoColor=FFA518)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-0d1117?style=flat-square&logo=Tensorflow&logoColor=FFA518)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=FFA518)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-0d1117?&style=flat-square&logo=numpy)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-0d1117?&style=flat-square&logo=pandas)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
-![Github Flow](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+## 🌐 Socials:
 
-## &#128202; Git Stats
-![charlie890414's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie890414&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie890414&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true)
-<!--
-![](https://github-profile-trophy.vercel.app/?username=charlie890414&no-bg=true&theme=darkhub&column=7)
--->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlie890414&theme=github_dark)
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white)](mailto:charlie890414@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlie890414) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=charlie890414&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie890414&langs_count=8&border_radius=15&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlie890414&theme=default)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=charlie890414&theme=default&hide_border=false)<br/>
+
