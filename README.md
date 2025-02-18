@@ -2,9 +2,6 @@
 
 # 💫 About Me:
 
-I am a problem-solver and enjoy working in a fast-paced environment where I can apply my skills to real-world challenges. I am also a team player and enjoy collaborating with others to achieve common goals. In my free time, I enjoy participating in programming competitions and have received several awards for my achievements, including the 2022 MediaTek Better Future Award and the 2020 Global Honorable Mention in the NASA SPACE APPS Challenge.<br><br>Overall, I am a dedicated and passionate individual with a proven track record of success in many activity. I am excited to continue learning and growing in my field and am always looking for new challenges and opportunities to apply my skills.
-
-
 ## 🌐 Socials:
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white)](mailto:charlie890414@gmail.com)
